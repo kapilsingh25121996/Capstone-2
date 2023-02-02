@@ -1,5 +1,4 @@
 # Capstone-2
-Sales Logo.png
 ![image](https://user-images.githubusercontent.com/114326008/216397367-f56722d2-cb32-4ab8-9587-078b7e2c6609.png)
 
 Retail Sales Prediction
@@ -15,8 +14,8 @@ The work here forecasts the sales of the various Rossmann stores across Europe f
 This project contains two executable file, a technical document and a presentation as follows:
 
 Executable Files:
-Rossmann_Sales_Prediction_Vithika_Karan.ipynb - Google Collab notebook containing data summary, exploration, visualisations and modeling.
-Rossmann_Sales_Prediction_Part_2_Vithika_Karan_ipynb.ipynb - Google Collab notebook containg model hyperparameter tuning, model performance, evaluation and conclusion.
+Rossmann_Sales_Prediction_Kapil_Singh.ipynb - Google Collab notebook containing data summary, exploration, visualisations and modeling.
+Rossmann_Sales_Prediction_Part_2_Kapil_Singh_ipynb.ipynb - Google Collab notebook containg model hyperparameter tuning, model performance, evaluation and conclusion.
 Documentation:
 Technical Documentation.pdf - Includes the complete documentation about the project.
 Project Presentation.pdf - Presentation of the same.
@@ -48,7 +47,7 @@ Random Forest Tuned Model gave the best results and the patterns that could be c
 -----------------------------------------------------
 
 📜 Credits
-< Vithika Karan > | Keen Learner | Business Analyst | Data Scientist | Machine Learning Enthusiast
+< Kapil Singh > | Keen Learner | Business Analyst | Data Scientist | Machine Learning Enthusiast
 
 Contact me for Data Science Project Collaborations
 
