@@ -51,7 +51,7 @@ Random Forest Tuned Model gave the best results and the patterns that could be c
 
 Contact me for Data Science Project Collaborations
 
-LinkedIn Badge GitHub Badge Medium Badge Resume Badge
+https://www.linkedin.com/in/kapil-singh-78733a18b
 
 -----------------------------------------------------
 
