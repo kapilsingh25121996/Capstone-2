@@ -70,6 +70,7 @@ Available: https://machinelearningmastery.com/random-forest-for-time-series-fore
 -----------------------------------------------------
 <h1 align="center">Hi 👋, I'm Kapil Singh</h1>
 <h3 align="center">Keen Learner|Data Analyst|Data Science Enthusiastic|</h3>
+img align="right" alt= "coding" width="400" src="https://i.gifer.com/7SvE.gif" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilsingh25121996&label=Profile%20views&color=0e75b6&style=flat" alt="kapilsingh25121996" /> </p>
 
