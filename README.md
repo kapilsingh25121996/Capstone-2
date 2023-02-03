@@ -68,3 +68,25 @@ Machine Learning Mastery, 'Random Forest for Time Series Prediction'. [Online].
 Available: https://machinelearningmastery.com/random-forest-for-time-series-forecasting/
 
 -----------------------------------------------------
+<h1 align="center">Hi 👋, I'm Kapil Singh</h1>
+<h3 align="center">Keen Learner|Data Analyst|Data Science Enthusiastic|</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilsingh25121996&label=Profile%20views&color=0e75b6&style=flat" alt="kapilsingh25121996" /> </p>
+
+- 🌱 I’m currently learning *Data Science*
+
+- 📫 How to reach me *kapilsin025@gmail.com*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kapil-singh-a9887b264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kapil-singh-a9887b264" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapilsingh25121996&show_icons=true&locale=en&layout=compact" alt="kapilsingh25121996" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapilsingh25121996&show_icons=true&locale=en" alt="kapilsingh25121996" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilsingh25121996&" alt="kapilsingh25121996" /></p>
